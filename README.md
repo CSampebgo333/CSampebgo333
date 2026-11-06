@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
-  <img src="assets/header.svg" width="100%" alt="Clément Sampebgo — data, AI and software. Curious about data. Building useful software.">
+  <source media="(max-width: 600px)" srcset="assets/pixel-header-mobile.svg">
+  <img src="assets/pixel-header.svg" width="100%" alt="Clément Sampebgo — CLÉMENT in animated blue pixel lettering. Data, AI and software.">
 </picture>
 
 ## Hello, I'm Clément.
@@ -37,12 +37,10 @@ My perspective also draws on an academic exchange at **CESI in Aix-en-Provence, 
 ## Tools I use
 
 <p>
-  <img src="assets/tools/python.svg" height="28" alt="Python">
-  <img src="assets/tools/pandas.svg" height="28" alt="pandas">
-  <img src="assets/tools/sql.svg" height="28" alt="SQL">
-  <img src="assets/tools/typescript.svg" height="28" alt="TypeScript">
-  <img src="assets/tools/react.svg" height="28" alt="React">
-  <img src="assets/tools/postgresql.svg" height="28" alt="PostgreSQL">
+  <img src="assets/tools/python.svg" height="36" alt="Python logo and name">
+  <img src="assets/tools/react.svg" height="36" alt="React logo and name">
+  <img src="assets/tools/typescript.svg" height="36" alt="TypeScript logo and name">
+  <img src="assets/tools/postgresql.svg" height="36" alt="PostgreSQL logo and name">
 </p>
 
 ## Let's connect
