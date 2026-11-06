@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/pixel-header-mobile.svg?v=teal-6b2de544">
-  <img src="assets/pixel-header.svg?v=teal-6b2de544" width="100%" alt="Clément Sampebgo — CLÉMENT in animated teal-green pixel lettering. Data, AI and software.">
+  <source media="(max-width: 600px)" srcset="assets/pixel-header-mobile.svg?v=surname54">
+  <img src="assets/pixel-header.svg?v=surname54" width="100%" alt="Clément Sampebgo — CLÉMENT in animated teal-green pixel lettering. Data, AI and software.">
 </picture>
 
 ## Hello, I'm Clément.
