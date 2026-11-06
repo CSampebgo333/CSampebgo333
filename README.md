@@ -9,6 +9,8 @@ I'm a **Computer Science student at Ashesi University, Class of 2027**, and a **
 
 My perspective also draws on an academic exchange at **CESI in Aix-en-Provence, France**.
 
+**[Explore my portfolio →](https://clementsampebgo.com)** · [English](https://clementsampebgo.com/en/) · [Français](https://clementsampebgo.com/fr/)
+
 [Selected work](#selected-work) · [Tools I use](#tools-i-use) · [Let's connect](#lets-connect)
 
 ## What interests me
